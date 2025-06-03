@@ -1,65 +1,62 @@
-# FIrewall & ids {#firewall-ids}
+# Firewall & IDS Lab {#firewall-ids}
 
-## IPs
+## Network IP Configuration
 
-Metasploitable: 192.168.56.102
+| Device          | Interface | IP Address      |
+|-----------------|-----------|-----------------|
+| Metasploitable  |           | 192.168.56.102  |
+| PfSense         | WAN       | 192.168.56.103  |
+| PfSense         | LAN       | 192.168.1.1     |
+| Kali (Client)   |           | 192.168.1.100   |
 
-PfSense (WAN:) 192.168.56.103
 
-PfSense (LAN): 192.168.1.1
-
-Kali (Client): 192.168.1.100
-
-## machines deployment
-
+## Machines Deployment
 ### Pfsense
+<p align="center">
+  <img src="image1.png">
+</p>
+<p align="center">
+  <img src="image2.png">
+</p>
 
-![](image1.png){width="3.495138888888889in"
-height="2.00625in"}![](image2.png){width="3.495138888888889in"
-height="2.00625in"}
-
-### ![A screenshot of a computer AI-generated content may be incorrect.](media/image2.png){width="3.495138888888889in" height="2.00625in"}Metasploitable {#a-screenshot-of-a-computer-ai-generated-content-may-be-incorrect.metasploitable}
-
-### 
-
-###   {#section-1}
+### Metasploitable
+<p align="center">
+  <img src="image22.png">
+</p>
 
 ### Kali
-
-### ![](media/image3.png){width="4.193102580927384in" height="2.0059481627296587in"} {#section-2}
+<p align="center">
+  <img src="image3.png">
+</p>
 
 ## pfsense configuration
-
 ### interface assignment
+<p align="center">
+  <img src="image4.png">
+</p>
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](image4.png){width="5.634722222222222in"
-height="1.5055555555555555in"}
-
-### firewall rule configuration  {#firewall-rule-configuration}
-
-### ![A screenshot of a computer AI-generated content may be incorrect.](media/image5.png){width="7.5in" height="2.7368055555555557in"} {#a-screenshot-of-a-computer-ai-generated-content-may-be-incorrect.}
-
-![A screenshot of a computer AI-generated content may be
-incorrect.](image6.png){width="7.5in" height="2.45625in"}
+### firewall rule configuration
+<p align="center">
+  <img src="media/image5.png">
+</p>
+<p align="center">
+  <img src="image6.png">
+</p>
 
 ### Testing the configuration
-
-![A screenshot of a computer program AI-generated content may be
-incorrect.](image7.png){width="6.542579833770779in"
-height="2.812892607174103in"}
-
-![A screenshot of a computer AI-generated content may be
-incorrect.](image8.png){width="6.521743219597551in"
-height="1.6252263779527558in"}
+<p align="center">
+  <img src="image7.png">
+</p>
+<p align="center">
+  <img src="image8.png">
+</p>
 
 ## Installing snort
-
-![](image9.png){width="6.836511373578302in"
-height="1.1284722222222223in"}
+<p align="center">
+  <img src="image9.png">
+</p>
 
 ## configure snort
-
-![A screenshot of a computer AI-generated content may be
-incorrect.](image10.png){width="7.5in"
-height="1.9333333333333333in"}
+<p align="center">
+  <img src="image10.png">
+</p>
