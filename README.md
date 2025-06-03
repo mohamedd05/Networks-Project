@@ -14,8 +14,8 @@ Kali (Client): 192.168.1.100
 
 ### Pfsense
 
-![](media/image1.png){width="3.495138888888889in"
-height="2.00625in"}![](media/image2.png){width="3.495138888888889in"
+![](image1.png){width="3.495138888888889in"
+height="2.00625in"}![](image2.png){width="3.495138888888889in"
 height="2.00625in"}
 
 ### ![A screenshot of a computer AI-generated content may be incorrect.](media/image2.png){width="3.495138888888889in" height="2.00625in"}Metasploitable {#a-screenshot-of-a-computer-ai-generated-content-may-be-incorrect.metasploitable}
@@ -33,7 +33,7 @@ height="2.00625in"}
 ### interface assignment
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image4.png){width="5.634722222222222in"
+incorrect.](image4.png){width="5.634722222222222in"
 height="1.5055555555555555in"}
 
 ### firewall rule configuration  {#firewall-rule-configuration}
@@ -41,25 +41,25 @@ height="1.5055555555555555in"}
 ### ![A screenshot of a computer AI-generated content may be incorrect.](media/image5.png){width="7.5in" height="2.7368055555555557in"} {#a-screenshot-of-a-computer-ai-generated-content-may-be-incorrect.}
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image6.png){width="7.5in" height="2.45625in"}
+incorrect.](image6.png){width="7.5in" height="2.45625in"}
 
 ### Testing the configuration
 
 ![A screenshot of a computer program AI-generated content may be
-incorrect.](media/image7.png){width="6.542579833770779in"
+incorrect.](image7.png){width="6.542579833770779in"
 height="2.812892607174103in"}
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image8.png){width="6.521743219597551in"
+incorrect.](image8.png){width="6.521743219597551in"
 height="1.6252263779527558in"}
 
 ## Installing snort
 
-![](media/image9.png){width="6.836511373578302in"
+![](image9.png){width="6.836511373578302in"
 height="1.1284722222222223in"}
 
 ## configure snort
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image10.png){width="7.5in"
+incorrect.](image10.png){width="7.5in"
 height="1.9333333333333333in"}
